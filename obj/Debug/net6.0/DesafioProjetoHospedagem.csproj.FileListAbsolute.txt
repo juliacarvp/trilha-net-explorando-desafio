@@ -1,0 +1,14 @@
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+c:\Users\PC\Downloads\trilha-net-explorando-desafio-main\trilha-net-explorando-desafio-main\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
